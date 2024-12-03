@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large media files
+*.pdf
+*.csv
+*.json
+data/
+
+# OS-generated files
+.DS_Store
